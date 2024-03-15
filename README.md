@@ -10,5 +10,5 @@ I am always improving and learning new concepts, ideas, and methodologies, there
 2023.11.25 - Superstore sales forecast (Time Series Analysis, EDA & LOESS).<br>
 2024.03.03 - Hotel bookings prediction (Sparse dataset, EDA, Naive-Bayes Model, XGB Classifier & Regressor).<br>
 2024.03.07 - Car insurance claims prediction (Sparse dataset, EDA, VIF, XGB Classifier & Regressor).<br>
-2024.03.15 - App installs forecasting (Time Series Analysis, Media Mixed Modeling, LOESS, Linear Regression).<br>
+2024.03.15 - App installs forecasting (Time Series Analysis, Media Mixed Modeling, LOESS, ACF, Linear Regression).<br>
 <p>
