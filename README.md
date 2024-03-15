@@ -6,8 +6,9 @@ I am always improving and learning new concepts, ideas, and methodologies, there
 <p>
 
 <p>
-2023.10.26 - Car prices and trim prediction project (Random Forest Regression & XGB Classifier).<br>
-2023.11.25 - Time Series Analysis project (EDA & LOESS).<br>
-2024.03.03 - Hotel bookings prediction project (Sparse dataset, EDA, Naive-Bayes Model, XGB Classifier & Regressor).<br>
-2024.03.07 - Car insurance claims prediction project (Sparse dataset, EDA, VIF, XGB Classifier & Regressor).<br>
+2023.10.26 - Car prices and trim prediction (Random Forest Regression & XGB Classifier).<br>
+2023.11.25 - Superstore sales forecast (Time Series Analysis, EDA & LOESS).<br>
+2024.03.03 - Hotel bookings prediction (Sparse dataset, EDA, Naive-Bayes Model, XGB Classifier & Regressor).<br>
+2024.03.07 - Car insurance claims prediction (Sparse dataset, EDA, VIF, XGB Classifier & Regressor).<br>
+2024.03.15 - App installs forecasting (Time Series Analysis, Media Mixed Modeling, LOESS, Linear Regression).<br>
 <p>
